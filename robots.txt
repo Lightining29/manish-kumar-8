@@ -1,0 +1,8 @@
+﻿User-agent: *
+Allow: /
+
+# Canonical Sitemaps for Googlebot and Search Crawlers
+Sitemap: https://manish-kumar-8.vercel.app/sitemap.xml
+
+# Host Specification
+Host: https://manish-kumar-8.vercel.app

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://manish-kumar-8.vercel.app/images/manish-fortuner.jpg</image:loc>
+      <image:title>Manish Kumar - Java Full Stack Developer and DevOps Engineer in Ghaziabad</image:title>
+      <image:caption>Manish Kumar official portfolio profile photo - B.Tech Computer Science, Appletree Infotech</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://manish-kumar-8.vercel.app/images/manish-white-shirt.jpg</image:loc>
+      <image:title>Manish Kumar - Spring Boot &amp; AWS Solution Architect</image:title>
+      <image:caption>Manish Kumar software engineer portrait photo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://manish-kumar-8.vercel.app/images/manish-sunglasses.jpg</image:loc>
+      <image:title>Manish Kumar - DevOps, Docker and Microservices Specialist</image:title>
+      <image:caption>Manish Kumar live project developer - Afsha Enterprises, ProgrammingWala</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/#about</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/#projects</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/#experience</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/#skills</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/#faq</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manish-kumar-8.vercel.app/#contact</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
